@@ -32,4 +32,4 @@ Just something to play around with.
 ###
 
 
-[Todo app is live live on heroku.. follow link](https://vue-todo-list-app.herokuapp.com "Open Todo app in browser")
+[Todo app is currently live on heroku.. follow link](https://vue-todo-list-app.herokuapp.com "Open Todo app in browser")
