@@ -27,8 +27,9 @@ This is a todo app written with vue framework
 - Allows users add todos 
 - check todos as done
 - And Delete todos
+##
 Just something to play around with.
 ###
 
 
-[This is todo vue app is live](https://vue-todo-list-app.herokuapp.com "Open Todo app in browser")
+[Todo app is live live on heroku.. follow link](https://vue-todo-list-app.herokuapp.com "Open Todo app in browser")
