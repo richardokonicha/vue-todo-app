@@ -24,3 +24,5 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # vue-todo-app
 This is part of a youtube vue crash course
+```
+This is live at https://vue-todo-list-app.herokuapp.com/ 
